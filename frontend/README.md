@@ -2,6 +2,8 @@
 
 ## Build Setup
 
+Make sure `axios.baseURL` is set to AWS gateway URL in `nuxt.config.js`.
+
 ```bash
 # install dependencies
 $ npm install
